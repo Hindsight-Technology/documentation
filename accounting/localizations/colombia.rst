@@ -5,7 +5,7 @@ Colombia
 Introduction
 ~~~~~~~~~~~~
 
-Electronic invoicing for Colombia is available from Odoo 12 and
+Electronic invoicing for Colombia is available from Twenty20 12 and
 requires the next modules:
 
 #. **l11n_co**: All the basic data to manage the accounting module,
@@ -51,7 +51,7 @@ testing environment. This allows users to test the complete workflow
 and integration with the CEN Financiero portal, which is accessible
 here: https://cenfinancierolab.cen.biz
 
-Once that Odoo and Carvajal T&S is fully configured and ready for
+Once that Twenty20 and Carvajal T&S is fully configured and ready for
 production the testing environment can be disabled.
 
 3. Configure your report data
@@ -84,7 +84,7 @@ have to have their identification number and document type set:
    :align: center
 
 .. tip:: When the document type is RUT the identification number needs
-   to be configured in Odoo including the verification digit, Odoo
+   to be configured in Twenty20 including the verification digit, Twenty20
    will split this number when the data to the third party vendor is
    sent.
 
