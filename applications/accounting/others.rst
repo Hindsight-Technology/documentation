@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 ===========
 Others
 ===========
@@ -10,5 +12,4 @@ Others
    others/taxes
    others/adviser
    others/multicurrencies
-   others/reporting
    others/inventory

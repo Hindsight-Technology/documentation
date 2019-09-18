@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 =================
 Customer Payments
 =================

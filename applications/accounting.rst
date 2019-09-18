@@ -1,10 +1,11 @@
 :banner: banners/accounting.jpg
 
 ========
-ACCOUNTING
+Accounting
 ========
 
 .. toctree::
+    :titlesonly:
 
     accounting/overview
     accounting/advisor

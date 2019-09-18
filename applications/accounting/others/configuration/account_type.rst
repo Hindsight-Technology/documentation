@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 ==================================================
 What is an account type and how do I configure it?
 ==================================================

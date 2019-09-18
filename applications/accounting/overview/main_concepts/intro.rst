@@ -1,3 +1,5 @@
+:banner: banners/accounting.jpg
+
 ===============================
 Introduction to Twenty20 Accounting
 ===============================

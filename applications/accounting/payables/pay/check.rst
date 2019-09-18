@@ -1,3 +1,5 @@
+:banner: banners/accounting/payable.jpg
+
 ======================
 Paying Vendor Invoices
 ======================

@@ -1,3 +1,5 @@
+:banner: banners/accounting/banking.jpg
+
 ==========================================
 Import Coda statement files (Belgium only)
 ==========================================

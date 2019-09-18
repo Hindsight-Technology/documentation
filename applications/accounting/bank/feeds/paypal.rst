@@ -1,3 +1,5 @@
+:banner: banners/accounting/banking.jpg
+
 =================================================
 How to synchronize your PayPal account with Twenty20?
 =================================================

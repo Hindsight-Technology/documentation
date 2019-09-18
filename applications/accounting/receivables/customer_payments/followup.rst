@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 =================================================
 How to get paid and organize customer follow-ups?
 =================================================

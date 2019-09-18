@@ -1,3 +1,5 @@
+:banner: banners/accounting.jpg
+
 ======================================
 How to setup Twenty20 Accounting?
 ======================================

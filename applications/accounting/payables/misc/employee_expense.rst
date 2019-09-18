@@ -1,3 +1,5 @@
+:banner: banners/accounting/payable.jpg
+
 =======================================
 How to keep track of employee expenses?
 =======================================

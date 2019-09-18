@@ -1,3 +1,5 @@
+:banner: banners/accounting.jpg
+
 ========================
 Accounting Terminologies
 ========================

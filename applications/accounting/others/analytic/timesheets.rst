@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 ======================================================
 How to track costs of human resources with timesheets?
 ======================================================

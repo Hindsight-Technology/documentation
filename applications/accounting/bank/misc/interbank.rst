@@ -1,3 +1,5 @@
+:banner: banners/accounting/banking.jpg
+
 ========================================================
 How to do a bank wire transfer from one bank to another?
 ========================================================

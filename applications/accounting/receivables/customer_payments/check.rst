@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 ============================================
 How to register customer payments by checks?
 ============================================

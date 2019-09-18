@@ -47,7 +47,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'applications'
+master_doc = 'index'
 
 # General information about the project.
 project = u'Twenty20'
@@ -312,7 +312,6 @@ LANGUAGES = {
 }
 
 def setup(app):
-    app.add_stylesheet('accounting.css')
     app.add_javascript('prefixfree.min.js')
     app.add_javascript('atom.js')
     app.add_javascript('immutable.js')
@@ -340,6 +339,8 @@ def setup(app):
     app.add_config_value('languages', '', 'env')
 
     app.connect('doctree-resolved', tag_toctrees)
+
+    app.add_stylesheet('accounting.css')
 
 def versionize(app, pagename, templatename, context, doctree):
     """ Adds a version switcher below the menu, requires ``canonical_root``

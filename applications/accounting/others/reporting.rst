@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 ===========
 Reporting
 ===========

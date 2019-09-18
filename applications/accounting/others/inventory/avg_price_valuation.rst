@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 ==========================================================
 Impact on the average price valuation when returning goods
 ==========================================================

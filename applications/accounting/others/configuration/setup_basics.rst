@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 Accounting Setup Basics
 ==========
 .. youtube:: X2FLM4apGc0

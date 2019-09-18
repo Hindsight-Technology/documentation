@@ -1,3 +1,4 @@
+:banner: banners/accounting/advisor.jpg
 
 ========================
 Chart of Accounts

@@ -1,4 +1,4 @@
-.. _receivables:
+:banner: banners/accounting/receivable.jpg
 
 ================================================
 Receivables

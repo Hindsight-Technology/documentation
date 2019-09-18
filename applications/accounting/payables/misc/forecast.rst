@@ -1,3 +1,5 @@
+:banner: banners/accounting/payable.jpg
+
 ====================================
 How to forecast future invoices to pay?
 ====================================

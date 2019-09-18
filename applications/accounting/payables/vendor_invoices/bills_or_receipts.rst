@@ -1,3 +1,5 @@
+:banner: banners/accounting/payable.jpg
+
 ======================================================
 When should I use vendor invoices or purchase receipts?
 ======================================================

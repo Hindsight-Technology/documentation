@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 ========================================================
 How to manage invoices & payment in multiple currencies?
 ========================================================

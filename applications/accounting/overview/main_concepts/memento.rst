@@ -1,3 +1,4 @@
+:banner: banners/accounting.jpg
 :code-column:
 
 ==============================================
