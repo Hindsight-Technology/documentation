@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 ================================================
 What are the different ways to record a payment?
 ================================================

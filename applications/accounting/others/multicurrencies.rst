@@ -1,6 +1,8 @@
-========
-Overview
-========
+:banner: banners/accounting/other.jpg
+
+=============
+Multicurrency
+=============
 
 .. toctree::
    :titlesonly:

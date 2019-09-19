@@ -199,3 +199,15 @@ dl.alternatives > dd {
 dl.alternatives > dd {
     margin-left: 0;
 }
+
+.card-img span {
+    opacity: 0.8 !important;
+}
+
+.toctree-l1 {
+    margin-left: 10px;
+    list-style-type: decimal;
+    border-bottom: 1px solid silver;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}

@@ -1,3 +1,5 @@
+:banner: banners/accounting/banking.jpg
+
 ==============================
 How to manage a cash register?
 ==============================

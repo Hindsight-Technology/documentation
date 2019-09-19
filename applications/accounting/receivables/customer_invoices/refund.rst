@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 =================================
 How to edit or refund an invoice?
 =================================

@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 =====================================================
 How to do a year end in Twenty20? (close a fiscal year)
 =====================================================

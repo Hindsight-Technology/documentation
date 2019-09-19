@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 ==================================
 How to setup and use payment terms
 ==================================

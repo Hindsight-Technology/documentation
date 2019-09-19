@@ -1,3 +1,5 @@
+:banner: banners/accounting/banking.jpg
+
 =======================================
 How to synchronize Twenty20 with your bank?
 =======================================

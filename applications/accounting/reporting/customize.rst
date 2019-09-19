@@ -1,9 +1,11 @@
-==========================================================
+:banner: banners/accounting/reports.jpg
+
+==============
+Custom Reports
+==============
+
 How to create a customized reports with your own formulas?
 ==========================================================
-
-Overview
-========
 
 Twenty20 9 comes with a powerful and easy-to-use reporting framework.
 Creating new reports (such as a tax report or a balance sheet for a

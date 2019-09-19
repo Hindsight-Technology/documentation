@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 ===========================
 Frequently Asked Quesions
 ===========================

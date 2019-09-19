@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 =================================================
 How to register credit card payments on invoices?
 =================================================

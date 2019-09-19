@@ -1,3 +1,5 @@
+:banner: banners/accounting/banking.jpg
+
 ===========================
 Frequently Asked Quesions
 ===========================

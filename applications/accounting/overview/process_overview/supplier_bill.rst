@@ -1,3 +1,5 @@
+:banner: banners/accounting.jpg
+
 ==================================
 From Vendor Invoices to Payments
 ==================================

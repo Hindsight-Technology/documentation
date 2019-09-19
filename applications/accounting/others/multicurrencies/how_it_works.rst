@@ -1,3 +1,5 @@
+:banner: banners/accounting/other.jpg
+
 =====================================
 How is Twenty20's multi-currency working?
 =====================================

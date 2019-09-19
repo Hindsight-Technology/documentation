@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 ========================================
 Deferred revenues: how to automate them?
 ========================================

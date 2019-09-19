@@ -1,3 +1,5 @@
+:banner: banners/accounting/banking.jpg
+
 =============================================
 Use cases in the bank reconciliation process?
 =============================================

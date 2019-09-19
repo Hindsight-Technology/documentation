@@ -1,4 +1,4 @@
-.. _bank:
+:banner: banners/accounting/banking.jpg
 
 ========================
 Banking

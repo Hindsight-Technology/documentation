@@ -1,3 +1,5 @@
+:banner: banners/accounting/receivable.jpg
+
 ==========================================================
 How to automate customer follow-ups with plans?
 ==========================================================

@@ -1,4 +1,4 @@
-.. _accounting:
+:banner: banners/accounting/payable.jpg
 
 ========================
 Payables
