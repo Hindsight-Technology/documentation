@@ -1,3 +1,5 @@
+:banner: banners/hr/time.jpg
+
 =================
 Time & Attendance
 =================

@@ -1,3 +1,5 @@
+:banner: banners/hr/management.jpg
+
 ===================
 Employee Management
 ===================

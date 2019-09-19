@@ -1,3 +1,5 @@
+:banner: banners/hr/vacations.jpg
+
 ===========================
 Leave & Vacation Management
 ===========================

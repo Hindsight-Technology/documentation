@@ -1,10 +1,11 @@
-:banner: banners/getting_started.jpg
+:banner: banners/hr/overview.jpg
 
-======================
-HUMAN RESOURCES
-======================
+===============
+Human Resources
+===============
 
 .. toctree::
+    :titlesonly:
 
     hr/overview
     hr/employees

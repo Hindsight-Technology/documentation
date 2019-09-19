@@ -1,3 +1,5 @@
+:banner: banners/development/tips.jpg
+
 ========================
 Tips & Tricks
 ========================

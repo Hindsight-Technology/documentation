@@ -1,3 +1,5 @@
+:banner: banners/hr/training.jpg
+
 ===================================
 Training & Certification Management
 ===================================

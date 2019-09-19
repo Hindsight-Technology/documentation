@@ -1,3 +1,5 @@
+:banner: banners/hr/overview.jpg
+
 ========
 Overview
 ========

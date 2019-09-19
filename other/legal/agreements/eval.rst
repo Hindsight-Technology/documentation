@@ -1,3 +1,5 @@
+:banner: banners/legal/evaluation.jpg
+
 ========================
 Evaluation Agreement
 ========================

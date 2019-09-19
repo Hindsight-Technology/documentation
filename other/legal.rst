@@ -1,4 +1,4 @@
-:banner: banners/accounting.jpg
+:banner: banners/legal/legal.jpg
 
 ========
 Legal

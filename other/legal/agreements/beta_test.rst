@@ -1,3 +1,4 @@
+:banner: banners/legal/legal.jpg
 
 =====================================
 Beta Testing Agreement

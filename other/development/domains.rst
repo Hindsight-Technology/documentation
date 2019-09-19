@@ -1,3 +1,5 @@
+:banner: banners/development/development.jpg
+
 ========================
 Working with domains
 ========================

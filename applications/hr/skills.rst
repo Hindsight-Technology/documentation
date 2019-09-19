@@ -1,3 +1,5 @@
+:banner: banners/hr/skills.jpg
+
 =================
 Skills Management
 =================

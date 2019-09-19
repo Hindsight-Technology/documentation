@@ -1,3 +1,5 @@
+:banner: banners/development/python.jpg
+
 ========================
 Payroll Setup
 ========================
