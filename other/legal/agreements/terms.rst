@@ -1,4 +1,4 @@
-:banner: banners/legal/legal.jpg
+:banner: banners/legal/legal3.jpg
 
 ===========================
 General Terms & Conditions

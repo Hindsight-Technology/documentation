@@ -1,4 +1,4 @@
-:banner: banners/legal/legal.jpg
+:banner: banners/legal/legal2.jpg
 
 ================================================
 Master Subscription Agreement
