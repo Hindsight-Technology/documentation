@@ -1,5 +1,7 @@
+:banner: banners/pm/finances.jpg
+
 ===============================
-Subcontacts
+Subcontracts
 ===============================
 
 .. youtube:: 3mQfsNiDfy8

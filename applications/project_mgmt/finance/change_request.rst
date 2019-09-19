@@ -1,3 +1,5 @@
+:banner: banners/pm/finances.jpg
+
 ===============================
 Change Request
 ===============================
