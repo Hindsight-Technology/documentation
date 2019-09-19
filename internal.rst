@@ -1,7 +1,7 @@
 :banner: banners/sign.jpg
 
 .. toctree::
-    :hidden:
+   :hidden:
 
    internal/overview
    internal/kubernetes/tips
