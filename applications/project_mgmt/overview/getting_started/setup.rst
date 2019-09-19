@@ -1,3 +1,5 @@
+:banner: banners/pm/overview.png
+
 ======================================
 How to setup project in Twenty20
 ======================================

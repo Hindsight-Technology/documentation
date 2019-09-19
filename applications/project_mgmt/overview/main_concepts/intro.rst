@@ -1,3 +1,5 @@
+:banner: banners/pm/overview.png
+
 ===============================
 Introduction to Project Management
 ===============================

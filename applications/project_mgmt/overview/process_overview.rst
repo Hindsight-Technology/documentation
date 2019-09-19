@@ -1,6 +1,8 @@
-================
+:banner: banners/pm/overview.png
+
+=========
 Workflows
-================
+=========
 
 .. toctree::
    :titlesonly:

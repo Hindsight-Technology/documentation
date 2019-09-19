@@ -1,3 +1,5 @@
+:banner: banners/pm/overview.png
+
 ===============
 Getting Started
 ===============

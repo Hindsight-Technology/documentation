@@ -1,8 +1,8 @@
-:banner: banners/getting_started.jpg
+:banner: banners/pm/overview.png
 
-========
-PROJECT MANAGEMENT
-========
+==================
+Project Management
+==================
 
 .. toctree::
 
