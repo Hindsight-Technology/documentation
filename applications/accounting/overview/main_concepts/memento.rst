@@ -2,7 +2,7 @@
 :code-column:
 
 ==============================================
-Accounting Memento For Entrepreneurs (US GAAP)
+Generally Accepted Accounting Principles (GAAP)
 ==============================================
 
 .. h:div:: intro-list

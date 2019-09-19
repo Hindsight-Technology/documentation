@@ -1,8 +1,8 @@
 :banner: banners/accounting.jpg
 
-========================
-Accounting Terminologies
-========================
+==============================
+Accounting Terms & Definitions
+==============================
 
 .. glossary::
 

@@ -4,45 +4,6 @@
 Evaluation Agreement
 ========================
 
-.. youtube:: fgdz8MH2YHY
-    :align: right
-    :width: 700
-    :height: 394
-
-Transcript
-==========
-
-Hi, my name is Nicholas, I'm a business manager in the 
-textile industry. I sell accessories to retailers. Do you 
-know the difference between a good salesperson and an 
-excellent salesperson? The key is to be productive and 
-organized to do the job. That's where Twenty20 comes in. Thanks
-to a well structured organization you'll change a good 
-team into an exceptional team. 
-
-With Twenty20 CRM, the job is much easier for me and my entire
-team. When I log in into Twenty20 CRM, I have a direct overview
-of my ongoing performance. But also the activity of the next 
-7 days and the performance of the last month. I see that I 
-overachieved last month when compared to my invoicing target 
-of $200,000. I have a structured approach of my performance. 
-
-If I want to have a deeper look into the details, I click 
-on next actions and I can see that today I have planned a 
-call with Think Big Systems. Once I have done my daily 
-review, I usually go to my pipeline. The process is the 
-same for everyone in the team. Our job is to find resellers 
-and before closing any deal we have to go through different 
-stages. We usually have a first contact to qualify the 
-opportunity, then move into offer & negotiation stage, and 
-closing by a 'won'..Well, that's if all goes well.
-
-The user interface is really smooth, I can drag and drop 
-any business opportunity from one stage to another in just 
-a few clicks. 
-
-Now I'd like to go further with an interesting contact: 
-a department store. I highlighted their file by changing 
 the color. For each contact, I have a form view where I can 
 access to all necessary information about the contact. I see 
 here my opportunity Macy's has an estimated revenue of $50,000 
