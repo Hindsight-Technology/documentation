@@ -40,11 +40,6 @@ or only one.
 
 	This is a tip
 
-
-.. image:: ./media/manage02.png
-  :align: center
-
-
 .. note::
 
 	This is a note

@@ -1,8 +1,8 @@
 :banner: banners/accounting/payable.jpg
 
-======================================================
+=======================================================
 When should I use vendor invoices or purchase receipts?
-======================================================
+=======================================================
 
 Purchase receipts are different than vendor invoices. Vendor invoices are
 requests for payment. If I issue a Purchase Order my vendor will in most
@@ -34,13 +34,13 @@ Configuration
 To handle purchase receipts in Twenty20 one module and one app has to be
 installed. Go into the app module and install the accounting app.
 
-.. image:: ./media/invoice01.png
+.. image:: ./media/bill01.png
   :align: center
 
 Then, go in the search bar, delete the default module search, and search
 for "purchase". Install the **Sale & Purchase Vouchers** module.
 
-.. image:: ./media/invoice02.png
+.. image:: ./media/bill02.png
   :align: center
 
 Register a receipt 
@@ -62,7 +62,7 @@ In most cases you immediately pay, we will thus select the Pay Directly
 option. Add the products, the related account and the appropriate taxe.
 For the example we suppose the tea is a 12% taxe and the Tea Pott 21%.
 
-.. image:: ./media/invoice03.png
+.. image:: ./media/bill03.png
   :align: center
 
 Validate the Purchase Receipt to post it. Don't forget you need to

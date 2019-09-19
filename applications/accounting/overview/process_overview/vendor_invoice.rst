@@ -1,8 +1,8 @@
-:banner: banners/pm/overview.png
+:banner: banners/accounting.jpg
 
-==================================
+================================
 From Vendor Invoices to Payments
-==================================
+================================
 
 Once vendor invoices are registered in Twenty20, you can easily pay vendors for
 the correct amount and at the right time (not too late, not too early;
@@ -14,16 +14,16 @@ use the Twenty20 Purchase application that allows you to control and
 pre-complete them automatically based on past purchase orders.
 
 From Vendor Invoice to Payment
-===========================
+==============================
 
 Record a new vendor invoice
-------------------------
+---------------------------
 
 When a vendor invoice is received, you can record it from :menuselection:`Purchases --> Vendor Invoices`
 in the Accounting application. As a shortcut,
 you can also use the **New Invoice** feature on the accounting dashboard.
 
-.. image:: ./media/vendor_invoice05.png
+.. image:: ./media/vendor_bill05.png
    :align: center
 
 To register a new vendor invoice, start by selecting a vendor and inputting
@@ -47,7 +47,7 @@ products without taxes as Twenty20 will compute the tax for you.
     amount in the bottom left table to adjust and match.
 
 Validate The Vendor Invoice
-------------------------
+---------------------------
 
 Once the vendor invoice is validated, a journal entry will be generated
 based on the configuration on the invoice. This journal entry may differ
@@ -76,7 +76,7 @@ having validated a couple of vendor invoices to see the impact on your
 general ledger.
 
 Pay a invoice
-----------
+-------------
 
 To create a payment for an open vendor invoice directly, you can click on **Register a
 Payment** at the top of the form.

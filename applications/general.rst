@@ -7,5 +7,3 @@ GENERAL SETUP
 .. toctree::
     :titlesonly:
 
-    general/email
-
