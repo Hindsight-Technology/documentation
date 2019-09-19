@@ -1,14 +1,13 @@
 :banner: banners/accounting.jpg
 
 ========================
-Terms & Conditions
+Development
 ========================
 
 .. toctree::
    :titlesonly:
 
-   agreements/terms
-   agreements/msa
-   agreements/beta_test
-   agreements/eval
+   development/domains
+   development/payroll
+   development/tips
 

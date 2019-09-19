@@ -1,8 +1,8 @@
 :banner: banners/accounting.jpg
 
-==========
+=======================
 ACCOUNTING INDEX
-==========
+=======================
 
 .. toctree::
    :titlesonly:

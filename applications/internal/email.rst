@@ -1,5 +1,8 @@
 :banner: banners/accounting.jpg
 
+========================
+Email Setup
+========================
 
 Setup Email with Twenty20
 
@@ -265,7 +268,7 @@ In my opinion this is complete malarkey. So, a state official sends an email to 
 - GitHub
 - Zendesk
 - Google Issue Tracker
-and a number of other services _DO NOT CLAIM TO BE THE ORIGINAL SENDER_ in the emails they send. For instance, GitHub conversations will be sent from the address "GitHub Username ".
+and a number of other services *DO NOT CLAIM TO BE THE ORIGINAL SENDER* in the emails they send. For instance, GitHub conversations will be sent from the address "GitHub Username ".
 
 We stopped using Office365 emails for our clients because a few clients had a high spam rate in outgoing mails sent by Twenty20, even though all the settings and DNS configurations were properly set.
 
@@ -400,9 +403,9 @@ Hello,
 
 I did exactly what the Tutorial said, but in the end, i got this message from Twenty20 server error:
 
---------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 The server refused the sender address (******@******.com) with error b'5.5.2 Send hello first [DB5EUR03FT008.eop-EUR03.prod.protection.outlook.com]'
-----------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 When i debugged in Twenty20 python code, i found that the catched smtp error code is 503
 

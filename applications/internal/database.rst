@@ -1,14 +1,11 @@
 :banner: banners/accounting.jpg
 
 ========================
-Terms & Conditions
+Database
 ========================
 
 .. toctree::
    :titlesonly:
 
-   agreements/terms
-   agreements/msa
-   agreements/beta_test
-   agreements/eval
+   database/tips
 

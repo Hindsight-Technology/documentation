@@ -1,8 +1,8 @@
 :banner: banners/pm/docs.jpg
 
-================
+=======================
 Collaborative Documents
-================
+=======================
 
 .. toctree::
    :titlesonly:
@@ -12,5 +12,5 @@ Collaborative Documents
    docs/daily_log
    docs/drawing
    docs/specs
-   docs/submittal
+   docs/meetings
 
