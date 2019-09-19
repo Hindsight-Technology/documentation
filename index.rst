@@ -10,4 +10,7 @@ TWENTY20 APPLICATIONS
     :titlesonly:
 
     applications
+    practical
+    internal
+    legal
 
