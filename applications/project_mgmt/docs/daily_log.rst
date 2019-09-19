@@ -1,12 +1,8 @@
+:banner: banners/pm/docs.jpg
+
 ================
 Daily Logs
 ================
 
-.. toctree::
-   :titlesonly:
-
-   payables/vendor_invoices
-   payables/pay
-   payables/faq
-   payables/misc
+No Help available yet
 

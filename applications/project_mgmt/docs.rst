@@ -1,3 +1,5 @@
+:banner: banners/pm/docs.jpg
+
 ================
 Collaborative Documents
 ================
@@ -5,10 +7,10 @@ Collaborative Documents
 .. toctree::
    :titlesonly:
 
-    docs/rfi
-    docs/submittal
-    docs/daily_log
-    docs/drawing
-    docs/specs
-    docs/submittal
+   docs/rfi
+   docs/submittal
+   docs/daily_log
+   docs/drawing
+   docs/specs
+   docs/submittal
 
