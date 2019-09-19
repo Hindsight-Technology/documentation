@@ -1,7 +1,5 @@
 :banner: banners/sign.jpg
 
-
-
 .. toctree::
     :hidden:
 
