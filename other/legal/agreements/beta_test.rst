@@ -1,10 +1,10 @@
 
-=====================================
-Beta Testing Agreement
-=====================================
+===========================================
+Beta Testing Agreement Terms & Conditions
+===========================================
 
-Terms & Conditions
-============================
+Revised 9/19/2019
+
 
 1. **Scope of Agreement.** Beta Customer is being granted rights under this Agreement for the purpose of testing and providing
 input and other feedback to Twenty20 regarding one or more of Twenty20’s proprietary available hosted software applications,

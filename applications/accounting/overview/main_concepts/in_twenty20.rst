@@ -1,25 +1,22 @@
 :banner: banners/accounting.jpg
 
-==========================
-The Accounting behind Twenty20
-==========================
+=====================================
+Introduction to Twenty20 Accounting
+=====================================
 
-This page summarizes the way Twenty20 deals with typical accounts and
-transactions.
 
 Double-entry bookkeeping
 ========================
 
 Twenty20 automatically creates all the behind-the-scenes journal entries
-for each of your accounting transactions: customer invoices, point of
-sale order, expenses, inventory moves, etc.
+for each of your accounting transactions: customer and vendor invoices, payroll, expenses, inventory transfers, etc.
 
 Twenty20 uses the rules of double-entry bookkeeping system: all journal
 entries are automatically balanced (sum of debits = sum of credits).
 
 .. seealso::
 
-	`Understand Twenty20's accounting transactions per document <https://Twenty20.com/documentation/functional/accounting.html>`__
+	`Understand Twenty20's Accounting Transactions <https://docs.twenty20.io/applications/accounting/overview/main_concepts/memento.html/>`__
 
 Accrual and Cash Basis Methods
 ==============================
@@ -31,11 +28,11 @@ payment is made or received (i.e., cash basis).
 Multi-companies
 ===============
 
-Twenty20 allows one to manage several companies within the same database. Each
+Twenty20 allows you to manage several companies within the same database. Each
 company has its own chart of accounts and rules. You can get
 consolidation reports following your consolidation rules.
 
-Users can access several companies but always work in one company at a
+Users can access several companies, but always work in one company at a
 time.
 
 Multi-currencies
@@ -70,7 +67,7 @@ In particular, Twenty20's core accounting engine supports:
 * Storno accounting (Italy) where refund invoices have negative
   credit/debit instead of a reversing entry for the original journal items.
 
-Twenty20 also have modules to comply with IFRS rules.
+Twenty20 also has modules to comply with IFRS rules.
 
 Accounts Receivable & Payable
 =============================
@@ -98,15 +95,13 @@ reports. Twenty20's reports include:
 * Detail reports (such as Trial Balance and General Ledger)
 * Management reports (such as Budgets, Executive Summary)
 
-Twenty20's report engine allows you to customize your own report based on
-your own formulae.
 
 Import bank feeds automatically
 ===============================
 
 Bank reconciliation is a process that matches your bank statement
 lines, as supplied by the bank, to your accounting transactions in the
-general ledger. Twenty20 makes bank reconciliation easy by frequently
+general ledger. Twenty20 makes bank reconciliation easy by aloowing you to
 importing bank statement lines from your bank directly into your Twenty20
 account. This means you can have a daily view of your cashflow without
 having to log into your online banking or wait for your paper bank
@@ -130,10 +125,6 @@ Inventory Valuation
 Twenty20 support both periodic (manual) and perpetual (automated)
 inventory valuations. The available methods are standard price,
 average price, LIFO (for countries allowing it) and FIFO.
-
-.. seealso::
-
-	`View impact of the valuation method on your transactions <https://Twenty20.com/documentation/functional/valuation.html>`__
 
 Easy retained earnings
 ======================
