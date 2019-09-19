@@ -1,3 +1,5 @@
+:banner: banners/pm/project.jpg
+
 ========
 Projects
 ========

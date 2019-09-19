@@ -1,3 +1,5 @@
+:banner: banners/pm/project.jpg
+
 ===============================
 Twenty20 Projects
 ===============================
@@ -13,7 +15,7 @@ Overview of Project Management
 Project Documents and Collaboration
 ==========
 
-Twenty20 project managment is designed to streamline the information and documents required to manage construction projects of all types.
+Twenty20 project management is designed to streamline the information and documents required to manage construction projects of all types.
 
 
 Twenty20 connects directly to your bank or paypal account. Transactions are synchronized
