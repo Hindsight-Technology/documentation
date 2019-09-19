@@ -76,7 +76,7 @@ According to domain syntax the above expression will be written as ['|', '|', '&
 
 The whole steps can be understood by following:
 
-.. image:: /static/img/steps.png
+.. image:: ./static/img/steps.png
 
 
 Let’s take an example of a domain which is set in Lot/Serial number field of work orders of MRP module. It only filters the records which satisfy the following condition:

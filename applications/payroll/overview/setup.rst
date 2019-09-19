@@ -4,12 +4,6 @@
 Payroll Setup
 ================
 
-.. toctree::
-   :titlesonly:
-
-   process_overview/customer_invoice
-   process_overview/vendor_invoice
-
 
 1- Create a payroll payable account in the General Ledger (type = payable)
 

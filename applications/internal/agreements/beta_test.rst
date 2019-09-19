@@ -1,3 +1,7 @@
+==============================
+Beta Test - Terms & Conditions
+==============================
+
 Beta Testing Agreement Terms & Conditions
 
 Scope of Agreement. Beta Customer is being granted rights under this Agreement for the purpose of testing and providing input and other Feedback to PlanGrid regarding one or more of PlanGrid’s proprietary, non-commercially available hosted software applications, application platform interfaces, services, features and/or functionalities in connection with the Existing Account as more fully described in the Beta Testing Order Form (the “Beta Product(s)”). This Agreement covers all Beta Products made available to Beta Customer by PlanGrid, including, without limitation, any Beta Products specifically identified by PlanGrid as being in “Beta” or any similar stage of development. PlanGrid retains sole and absolute discretion as to what, if any, Beta Products will be made available to Beta Customer during the Term. While Beta Customer is not required to utilize or enable any Beta Products, if Beta Customer elects to do so, then Beta Customer’s use of and access to any such Beta Products shall be subject to the terms of this Agreement.

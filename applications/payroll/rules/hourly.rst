@@ -1,13 +1,13 @@
 :banner: banners/payroll/rules.jpg
 
-===========
+==================
 Processing Payroll
-===========
+==================
 
 
 
 Video Demonstration
-========
+===================
 
 .. youtube:: iE5UQ7Jx2gM
     :align: right
@@ -16,15 +16,10 @@ Video Demonstration
 
 
 Step by Step
-========
+============
 
 1-  Open the menu :menuselection:`Human Resources --> Payroll`, then click on the
 **Employee Payslips** button.
-
-
-.. image:: ./media/payslip.png
-   :align: center
-
 
 2-  Enter the employee
 
