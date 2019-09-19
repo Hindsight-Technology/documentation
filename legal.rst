@@ -1,9 +1,7 @@
-================================
-Legal
-================================
+:banner: banners/sign.jpg
 
 .. toctree::
-   :titlesonly:
+    :hidden:
 
    legal/agreements/beta_test
    legal/agreements/eval

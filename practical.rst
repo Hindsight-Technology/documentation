@@ -1,9 +1,5 @@
-=====================
-Practical Information
-=====================
+:banner: banners/sign.jpg
 
-.. toctree::
-   :titlesonly:
 
    applications/getting_started/style_guide
    applications/getting_started/documentation
