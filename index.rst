@@ -10,4 +10,5 @@ TWENTY20 APPLICATIONS
     :titlesonly:
 
     applications
+    other
 

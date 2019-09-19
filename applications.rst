@@ -9,6 +9,4 @@
     applications/project_mgmt
     applications/hr
     applications/payroll
-    applications/legal
-    applications/general
 
