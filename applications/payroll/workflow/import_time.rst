@@ -1,3 +1,5 @@
+:banner: banners/payroll/workflow.jpg
+
 ===========
 Importing Time
 ===========

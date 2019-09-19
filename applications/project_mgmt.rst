@@ -5,6 +5,7 @@ Project Management
 ==================
 
 .. toctree::
+    :titlesonly:
 
     project_mgmt/overview
     project_mgmt/project

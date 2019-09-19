@@ -1,3 +1,5 @@
+:banner: banners/payroll/rules.jpg
+
 ===========
 Processing Payroll
 ===========

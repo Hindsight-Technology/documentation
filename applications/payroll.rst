@@ -1,11 +1,12 @@
-:banner: banners/accounting.jpg
+:banner: banners/payroll/overview.jpg
 
 ========
-PAYROLL
+Payroll
 ========
 
 .. toctree::
+    :titlesonly:
 
-    payroll/toc
     payroll/overview
-    payroll/other
+    payroll/workflow
+    payroll/rules

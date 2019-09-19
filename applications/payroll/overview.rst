@@ -1,4 +1,4 @@
-
+:banner: banners/payroll/overview.jpg
 
 ========
 Overview
@@ -7,8 +7,5 @@ Overview
 .. toctree::
    :titlesonly:
 
-   overview/main_concepts
-   overview/getting_started
-   overview/process_overview
-
+   overview/setup
 

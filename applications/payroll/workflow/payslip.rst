@@ -1,3 +1,5 @@
+:banner: banners/payroll/workflow.jpg
+
 ===================
 Processing Payroll
 ===================

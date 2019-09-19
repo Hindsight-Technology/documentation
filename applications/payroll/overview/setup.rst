@@ -1,3 +1,5 @@
+:banner: banners/payroll/overview.jpg
+
 ================
 Payroll Setup
 ================
