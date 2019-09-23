@@ -1,8 +1,8 @@
 :banner: banners/accounting.jpg
 
-===============================
+===================================
 Introduction to Twenty20 Accounting
-===============================
+===================================
 
 .. youtube:: 6XgKPjgyoec
     :align: right
@@ -10,7 +10,7 @@ Introduction to Twenty20 Accounting
     :height: 394
 
 Transcript of Video
-==========
+===================
 
 Twenty20 is beautiful accounting software designed for the needs of the 21st century.
 

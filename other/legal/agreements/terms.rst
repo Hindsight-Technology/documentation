@@ -561,15 +561,13 @@ objectives.
 .. _appendix_a:
 
 9 Appendix A: Twenty20 Enterprise Edition License
-=============================================
+=================================================
 
 .. only:: latex
 
     Twenty20 Enterprise Edition is licensed under the Twenty20 Enterprise Edition License v1.0,
     defined as follows:
 
-    .. include:: ../licenses/enterprise_license.txt
-        :literal:
 
 .. only:: html
 
@@ -597,7 +595,7 @@ objectives.
     Phone:
 
     Technical contact information (can be an Twenty20 partner):
-    -------------------------------------------------------
+    -----------------------------------------------------------
     Company name:
     Contact name:
     Email:

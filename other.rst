@@ -4,4 +4,5 @@
     :hidden:
 
     other/development
+    other/implementation
     other/legal

@@ -1,8 +1,8 @@
-:banner: banners/accounting.jpg
+:banner: banners/development/implementation.jpg
 
-========
+==============
 Implementation
-========
+==============
 
 .. toctree::
     :titlesonly:

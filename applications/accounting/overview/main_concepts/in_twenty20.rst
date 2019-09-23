@@ -1,7 +1,7 @@
 :banner: banners/accounting.jpg
 
 =====================================
-Introduction to Twenty20 Accounting
+Twenty20 Accounting Features
 =====================================
 
 
@@ -16,7 +16,7 @@ entries are automatically balanced (sum of debits = sum of credits).
 
 .. seealso::
 
-	`Understand Twenty20's Accounting Transactions <https://docs.twenty20.io/applications/accounting/overview/main_concepts/memento.html/>`__
+	`Understand Twenty20's Accounting Transactions </memento.html/>`__
 
 Accrual and Cash Basis Methods
 ==============================
