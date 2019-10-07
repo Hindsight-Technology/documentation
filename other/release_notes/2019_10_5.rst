@@ -1,17 +1,71 @@
 :banner: banners/development/development.jpg
 
-========================
-Release 2019.10.5
-========================
+============================
+October 5, 2019  (2019.10.5)
+============================
 
 General
 ---------
 
+**Security**
+
+- Added Password security that enforces company wide password requirements on users.
+- Added 2FA (Two Factor Authentication) for customers that need additional security.
+- Added automatic inactivity logoff.  The user will have to re-logon after 2 hours of inactivty - configurable
+
+**Dashboards**
+
+- Added a new dashboard module that makes it possible for the user to create their own dashboards for reporting and anaysis.
+
+
+
+
 Accounting
 ------------
+**General**
+
+- Remove the ability to cancel any transaction that has already been reconciled to a bank statement
+
+**Time and Material**
+
+- Added enhancement to allow more flexibility in Time and Material tracking and billing
 
 Project Mgmt
 --------------
+
+**General**
+
+- New categories for more accurate job costing
+
+
+**Submittal**
+
+- List view enhancements
+- Submittal log to mirror the list view
+
+**Daily Log**
+
+- Enhanced time entry on daily log add to the portal view
+
+**Project Meetings**
+
+- Added Categories and Subcategories to the project Meeting
+- Added a new Project Meeting PDF printout for the categories
+- Add ability to link meeting action items to the project schedule
+
+**Change Request**
+
+- Enhanced the existing scope items to show the items that are on the application for payment
+
+**Change Orders**
+
+- Enhancement to the PCO so that when it is marked as bill separately & summarize, that you must select an analytic account that will be used to job cost the PCO corectly
+
+**Scheduling**
+
+- Many enhancements to the tasks and the gantt view to enhance the user experience and make it easier.
+
+
 
 Human Resources
 ----------------
@@ -19,8 +73,25 @@ Human Resources
 Payroll
 ----------
 
+**Period Wizard**
+
+- Added a new wizard that will automatically create your payroll pay periods
+
+**Notes Payable**
+
+- enhanced the notes payable tracking on the employee contract. You can now make adjustements to the note and you can see the payments that have been made from the employee payslips.
+
+**Direct Desposit**
+- Enhanced the direct deposit features to include making deposits to multiple banks accounts either by amount or percent of paycheck.
+
+
 Purchasing/Inventory
 ---------------------
+
+**Project Requisitions**
+
+- Added a new requisition application that will make it possible to list the materials that are required for a project. The Procurement manager can then pull from stock or create a purchase order.  All items will be costed to thge project and tracked.
+
 
 Service Mgmt
 ------------
