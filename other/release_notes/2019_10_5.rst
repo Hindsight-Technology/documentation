@@ -30,6 +30,11 @@ Accounting
 
 - Added enhancement to allow more flexibility in Time and Material tracking and billing
 
+.. youtube:: XhS-nK_SsO0
+    :align: right
+    :width: 700
+    :height: 394
+
 Project Mgmt
 --------------
 
