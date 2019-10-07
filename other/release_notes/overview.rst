@@ -1,11 +1,11 @@
 :banner: banners/payroll/overview.jpg
 
-========
-Overview
-========
+================
+Release Notes
+================
 
 .. toctree::
    :titlesonly:
 
-   overview/setup
+   2019_10_5
 

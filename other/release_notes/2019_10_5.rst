@@ -1,0 +1,33 @@
+:banner: banners/development/development.jpg
+
+========================
+Release 2019.10.5
+========================
+
+General
+---------
+
+Accounting
+------------
+
+Project Mgmt
+--------------
+
+Human Resources
+----------------
+
+Payroll
+----------
+
+Purchasing/Inventory
+---------------------
+
+Service Mgmt
+------------
+
+Estimating
+-------------
+
+
+Reference:
+https://github.com/lsegal/atom-rst-preview/blob/master/sample.rst
