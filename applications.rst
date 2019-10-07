@@ -9,4 +9,5 @@
     applications/project_mgmt
     applications/hr
     applications/payroll
+    other/index
 
