@@ -79,7 +79,7 @@ to.
 
 As transactions are associated to customers or vendors, you get
 reports to perform analysis per customer/vendor such as the customer
-statement, revenues per customers, aged receivable/payables, ...
+statement, revenues per customers, aged receivable/payables etc.
 
 Wide range of financial reports
 ===============================
@@ -101,7 +101,7 @@ Import bank feeds automatically
 
 Bank reconciliation is a process that matches your bank statement
 lines, as supplied by the bank, to your accounting transactions in the
-general ledger. Twenty20 makes bank reconciliation easy by aloowing you to
+general ledger. Twenty20 makes bank reconciliation easy by allowing you to
 importing bank statement lines from your bank directly into your Twenty20
 account. This means you can have a daily view of your cashflow without
 having to log into your online banking or wait for your paper bank

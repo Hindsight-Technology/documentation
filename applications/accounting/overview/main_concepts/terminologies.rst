@@ -4,6 +4,8 @@
 Accounting Terms & Definitions
 ==============================
 
+The following glossary wil help to define specific terms that are used in Twenty20.
+
 .. glossary::
 
    Journal

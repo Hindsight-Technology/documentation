@@ -11,3 +11,4 @@ Development
    development/payroll
    development/tips
    development/database
+   development/tours
