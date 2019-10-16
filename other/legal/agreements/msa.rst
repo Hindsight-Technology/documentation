@@ -272,12 +272,12 @@ As indicated on the Order Form or Proposal.
 Company warrants that it will use commercially reasonable efforts to perform the Services in accordance with the
 generally accepted industry standards and further provided that:
 
-1. the Software code has not been modified, changed, or altered;
+1- the Software code has not been modified, changed, or altered;
 
-2. Customer provides adequate troubleshooting information and access so that Company can identify,
+2- Customer provides adequate troubleshooting information and access so that Company can identify,
 reproduce and address problems; and
 
-3. all amounts due to Company have been paid.
+3- all amounts due to Company have been paid.
 
 Customer's sole and exclusive remedy and Company's only obligation for any breach of the foregoing warranty is for
 Company to perform again the services at no additional charge. 
