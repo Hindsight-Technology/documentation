@@ -72,7 +72,7 @@ limited access to the Software through the portal facilities (known as "portal U
 
 1.10. “Bug”
 ----------------------
-means any any failure of the Software that results in a complete stop, error traceback or security breach, and is not
+means any failure of the Software that results in a complete stop, error traceback or security breach, and is not
 directly caused by a defective installation or configuration. Non-compliance with specifications or requirements will be
 considered as Bugs at the discretion of Company. In general terms, a bug typically is, when the Software does not
 produce the results or performance it was designed to produce.
@@ -241,9 +241,9 @@ bugs have been received unless a valid email response has been received from Com
 5.2. SUPPORT.
 -------------------
 
-For the term of this Agreement, Company offers a support service, with an unlimited number of
-tickets for bugs. This service does not include support to customize the Software or Services, develop new modules,
-reconcile and/or do bookkeeping tasks, fix user erros, or perform specific actions on your database on your behalf
+For the term of this Agreement, Company offers a support service, with an unlimited number of tickets for bugs.
+This service does not include support to customize the Software or Services, develop new modules,
+reconcile and/or do bookkeeping tasks, fix user errors, or perform specific actions on your database on your behalf
 (e.g. recording data, or configuring the system for you). Those services may be included in the Order Form or offered
 as an extra through our professional services group
 and quoted independently.
@@ -303,12 +303,12 @@ rounds). Company does not have access to your passwords, and cannot retrieve it 
 it is to reset it. Login credentials are always transmitted securely over HTTPS. The Software is also equipped with
 password rules that allow the Customer to enforce strong passwords, as well as the ability to use 2FA
 (Two factor Authentication) where the user would be required to login with a username and password and then be further
-autheniticated with Google Authentication app.  The use of these features are at the discretion of the Customer. Company
+authenticated with Google Authentication app.  The use of these features are at the discretion of the Customer. Company
 is not liable for any issues resulting from poorly protected Customer passwords.
 
 6.3. COMPANY ACCESS.
 ---------------------
-Company helpdesk staff may signin to your account to access settings and information related to your support issue.
+Company helpdesk staff may sign in to your account to access settings and information related to your support issue.
 For this, they use their own special staff credentials, not your password (which they have no way to know). This special
 staff access improves efficiency and security: they can immediately reproduce the problem you are seeing, you never need
 to share your password, and we can audit and control staff actions separately! Our Helpdesk staff strives to respect
@@ -334,7 +334,7 @@ Every customer database has hourly backups for 48 hours, daily backups for 7 day
 7. GENERAL.
 ===============
 
-7.1. NON SOLICITATION.
+7.1. NON-SOLICITATION.
 ------------------------
 Except where the other party gives its consent in writing, each party, its affiliates and
 representatives agree not to solicit or offer employment to any employee of the other party who is
@@ -439,5 +439,5 @@ effects and objectives.
 
 Customer is entitled to participate in our "Customer Referral Program". This program offers Customer a way to extend
 the term without incurring additional cost. With this program, if Customer refers another company to us that ends up
-subscribing to the Software/Serfvice, Company will extend the Term of the active contract by 3 additional months per
+subscribing to the Software/Service, Company will extend the Term of the active contract by 3 additional months per
 paid referral.
