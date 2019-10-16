@@ -7,7 +7,7 @@ Creating Tours
 1. Introduction
 =================
 
-Tours are a great way in Twenty20 to show people the main features of an Twenty20 app. With tours you can guide a user through steps while giving feedback to the user along the way. You can see an Twenty20 tour as an interactive way to learn people the main features without needing to show it yourself. It is fully automated. In this tutorial you will learn how to create a tour with steps inside the 'contacts' app.
+Tours are a great way in Twenty20 to show people the main features of an Twenty20 app. With tours you can guide a user through steps while giving feedback to the user along the way. You can see an Twenty20 tour as an interactive way to teach people the main features without needing to show it yourself. It is fully automated. In this tutorial you will learn how to create a tour with steps inside the 'contacts' app.
 
 2. Creating a new module
 ==================================

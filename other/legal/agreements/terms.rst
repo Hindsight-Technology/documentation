@@ -5,29 +5,36 @@ General Terms & Conditions
 ===========================
 .. _online_terms_of_sale:
 
-.. note:: Version 2 - Last revision: July 12, 2018.
+.. note:: Version 2 - Last revision: Oct 15, 2019.
 
-By subscribing to the Twenty20 Online services (the "Services") provided by Twenty20 SA and its
-affiliates (collectively, "Twenty20 SA") in relation with Twenty20 Enterprise Edition or
-Twenty20 Community Edition (the "Software"), you (the "Customer") are agreeing to be bound by the
-following terms and conditions (the "Agreement").
+By accepting these General Terms during your account registration or subscription process, or by accessing or using our
+Offerings, you confirm your acceptance of these General Terms and other applicable Terms and your agreement to be a party
+to this binding contract. If you do not agree, you do not have the right to access or use our Offerings.
+
+You agree to these Terms on behalf of the company or other legal entity for which you are acting (for example, as an
+employee or contractor) or, if there is no company or legal entity, on behalf of yourself as an individual (in either case, “You”).
+You represent and warrant that you have the right and authority (as well as the capacity—for example, you are of sufficient
+legal age) to act on behalf of and bind such entity (if any) and yourself.
+
 
 .. _term:
 
 1 Term of the Agreement
 =======================
 
-The duration of this Agreement (the “Term”) shall be minimally one month and as
-specified in writing at the signature of this Agreement, beginning on the date
-of the signature. It is automatically renewed for an equal Term, unless either
-party provides a written notice of termination minimum 30 days before the end
-of the Term by registered mail to the other party.
+The duration of the Agreement (hereafter the “Term”) shall be minimally one (1) year or as otherwise specified in the
+top of this Agreement starting on the date of the signature of the Agreement. It is automatically renewed for one year,
+or as otherwise specified and agreed by both parties in writing. Either party may terminate the renewal by notifying the
+other party at least 30 days prior to the termination of the current agreement by registered mail to the other party.
 
 
 .. _definitions:
 
 2 Definitions
 =============
+
+Software
+    Any Twenty20 product, application, or tool that is provided and accessed as a part of this subscription service.
 
 User
     Any active user account with access to the Software in creation and/or edition mode.
@@ -39,54 +46,40 @@ Bug
     Is considered a Bug any failure of the Software that results in a complete stop, error
     traceback or security breach, and is not directly caused by a defective installation or
     configuration. Non-compliance with specifications or requirements will be considered as Bugs at
-    the discretion of Twenty20 SA (typically, when the Software does not produce the results or
+    the discretion of Hindsight (typically, when the Software does not produce the results or
     performance it was designed to produce, or when a country-specific feature does not meet legal
     accounting requirements anymore).
 
-.. _enterprise_access:
 
-3 Access to source code
+
+3 Access to Software
 =======================
 
-For the duration of this Agreement, Twenty20 SA gives the Customer a non-exclusive,
-non-transferable license to use (execute, modify, execute after modification)
-the Twenty20 software, under the terms set forth in :ref:`appendix_a`.
+This Software can only be used (executed, modified, executed after modifications) with a valid Software Subscription for
+the correct number of contracted users.
 
-The Customer agrees to take all necessary measures to guarantee the unmodified
-execution of the part of the Software that verifies the validity of the usage
-and collects statistics for that purpose, including but not limited to the
-running of an instance, the applications installed and the number of Users.
-
-Twenty20 SA commits not to disclose individual or named figures to third parties without the consent
-of the Customer, and to deal with all collected data in compliance with its official Privacy
-Policy, as published on `Twenty20 SA's website <https://www.odoo.com>`_.
+It is forbidden to publish, distribute, sublicense, or sell copies of the Software or modified copies of the Software,
+unless otherwise agreed to in writing by Hindsight.
 
 Upon expiration or termination of this Agreement, this license is revoked immediately and the
 Customer agrees to stop using the software.
 
 Should the Customer breach the terms of this section, the Customer agrees to
-pay Twenty20 SA an extra fee equal to 300% of the applicable list price for the
+pay Hindsight an extra fee equal to 300% of the applicable list price for the
 actual number of Users for one year.
 
 
 .. _services:
 
-4 Service Level
+4 Services
 ===============
 
 4.1 Bug Fixing Service
 ----------------------
 
-For the duration of this Agreement, Twenty20 SA commits to making all reasonable efforts to remedy any
-Bug of the Software submitted by the Customer through the appropriate channel (typically, Twenty20 SA's
-service desk email address or website form), and to start handling such Customer submissions
-within 2 business days.
-
-The Customer understands that Bugs caused by a modification or extension that is not part of the
-official Software will not be covered by this service.
-
-Both parties acknowledge that as specified in the license of the Software and in the :ref:`liability`
-section of this Agreement, Twenty20 SA cannot be held liable for Bugs in the Software.
+For the duration of this Agreement, Hindsight commits to making all reasonable efforts to remedy any Bug of the Software
+submitted by the Customer through the appropriate channel (typically, Hindsight service desk, email address, or
+website form), and to start handling such Customer submissions within 2 business days. 
 
 4.2 Support Service
 -------------------
@@ -94,49 +87,61 @@ section of this Agreement, Twenty20 SA cannot be held liable for Bugs in the Sof
 Support Scope
 +++++++++++++
 
-For the duration of this Agreement, Twenty20 SA offer a support service, with an
-unlimited number of tickets for bugs and functional questions: how to use and
-configure Twenty20 for your specific needs.
+For the duration of this Agreement, Hindsight offers a support service, with an unlimited number of
+tickets for bugs. This support service does not include support to customize the Software, develop new modules, or
+perform specific actions on your database on your behalf. (e.g. recording data, or configuring the system for you).
+Those services may be included in the Investment Summary or offered as an extra through our professional services group
+and quoted independently of the Software Agreement.
 
-This support service does not include support to customize Twenty20, develop new
-modules, or perform specific actions on your database on your behalf. (e.g.
-recording data, or configuring the system for you) Those services can be
-offered in extra through our Success Pack service offer.
+Support Service Support issues should be submitted online on https://twenty20.io/help. or by email to support@twenty20.io
+In case of emergency, you can call our support teams directly for a real-time answer by calling 562-285-9991.
 
-Support Service
-+++++++++++++++
+Our support teams are split across 3 continents in India (Ahmedabad), United States, and Costa Rica. Support is offered
+during normal business hours 8am - 5pm Arizona time Monday - Friday excluding legal holidays in the respective countries.
 
-Support issues should be submited online on https://odoo.com/help In case of
-emergency, you can call our support teams directly for a real time answer.
+You will have a dedicated implementation specialist that will be based in the United States and will be your primary
+contact during the implementation and training phases. After that time, support may be handled by assignment in our
+help-desk que.
 
-Our support teams are split across 3 continents in India (Ahmedabad), Belgium
-(Brussels) and United States (San Francisco) in order to cover 20 hours per
-open day. (monday to friday, excluding legal holidays in the respective
-countries)
-
-No guarantees are provided on the time to qualify or close a support ticket,
-it's based on our best efforts. But 95% of the tickets are qualified within 2
-open days, and 90% of the critical bugs (when a user can not work on the system
-anymore) are processed within 2 hours.
-
-The Twenty20 portal allows you to track you support tickets.
+No guarantees are provided on the time to qualify or close a support ticket, it's based on our best efforts.
+Ninty-five percent  (95%) of the tickets are qualified within 2 business days, and 90% of the critical bugs
+(when a user can not work on the system anymore) are processed within 2 hours and resolved in 24 hours.
 
 
-4.3 Service Availability
+
+4.3 Security
 ------------------------
 
-Customer databases are hosted in the closest Twenty20 data center (EMEA: France,
-Americas: Canada, APAC: Hong Kong or Taiwan). Each customer instance is replicated
-in real-time on a hot-standby system located in the same data center.
+**Database Security.** Customer data is stored in a dedicated database - no sharing of data between clients.
+Data access control rules implement complete isolation between customer databases running on the same cluster,
+no access is possible from one database to another.
 
-We work with different hosting providers worldwide (and we can switch at anytime),
-but they always deliver at least 99.9% uptime guarantee. These metrics refer to
-the availability of the platform itself for all customers. Individual databases
-may be temporarily unavailable for specific reasons, typically related to the
-customer's actions, customizations or upgrades.
+**Password Security.** Customer passwords are protected with industry-standard
+PBKDF2+SHA512 encryption (salted + stretched for thousands of rounds). Hindsight staff does not have access to your
+password, and cannot retrieve it for you, the only option if you lose it is to reset it. Login credentials are always
+transmitted securely over HTTPS. The Software is also equipped with password rules that allow the Customer to enforce
+strong passwords, as well as the ability to use 2FA (Two factor Authentication) where the user would be required to login
+with a username and password and then be further autheniticated with Google Authentication app.  The use of these
+features are at the discretion of the Customer. Hindsight is not liable for any issues resulting from poorly protected
+Customer passwords.
 
-Our data centers are Tier-III certified or equivalent, with N+1 redundancy for
-power, network and cooling.
+**System Security**. All web connections to client instances are protected with state-of-the-art 256-bit SSL encryption.
+All our SSL certificates use robust 2048-bit modulus with full SHA-2 certificates chains. Our servers are kept in the
+Google data centers under a strict security watch, and patched against the latest SSL vulnerabilities as we are made
+aware of them. All Hindsight online servers are running hardened Linux distributions with up-to-date security patches.
+Installations are ad-hoc and minimal to limit the number of services that could contain vulnerabilities. Only a few
+trusted Hindsight engineers have clearance to remotely manage the servers - and access is only possible using SSH
+key pairs (password authentication disallowed). Firewalls and intrusion counter-measures help prevent unauthorized access.
+Automatic Distributed Denial of Service (DDoS) mitigation is implemented in US data centers. 
+
+**Staff Access.**  Hindsight Helpdesk staff may sign into your account to access settings related to your support issue.
+For this, they use their own special staff credentials, not your password (which they have no way to know). This special
+staff access improves efficiency and security: they can immediately reproduce the problem you are seeing, you never need
+to share your password, and we can audit and control staff actions separately! Our Helpdesk staff strives to respect
+your privacy as much as possible, and only access files and settings needed to diagnose and resolve your issue Physical
+Security.
+
+
 
 4.4 Backups & Recovery
 ----------------------
@@ -145,179 +150,6 @@ Every database has 14 full snapshot backups for up to 3 months: 1/day for 7
 days, 1/week for 4 weeks, 1/month for 3 months. Every backup is replicated on
 at least 3 different machines in different data centers.
 
-Users can download manual backups of their live data at any time.
-
-For a permanent disaster impacting one server only, our Disaster Recovery Plan
-has the following metrics:
-- RPO (Recovery Point Objective) = 5 minutes, i.e. can lose maximum 5 minutes of work
-- RTO (Recovery Time Objective) = 30 minutes, i.e the service will be back online after maximum 30 minutes  (Standby promotion time + DNS propagation time included)
-
-For data center disasters (one entire data center is completely and permanently
-down), Disaster Recovery Plan has these metrics:
-- RPO (Recovery Point Objective) = 24h, i.e. you can lose maximum 24h of work if the data cannot be recovered and we need to restore the last daily backup
-- RTO (Recovery Time Objective) = 24h, i.e. the service will be restored from the backup within 24 hours in a different data center
-
-4.5 Security
-------------
-
-Database Security
-+++++++++++++++++
-
-Customer data is stored in a dedicated database - no sharing of data between
-clients. Data access control rules implement complete isolation between customer
-databases running on the same cluster, no access is possible from one database
-to another.
-
-Password Security
-+++++++++++++++++
-
-Customer passwords are protected with industry-standard PBKDF2+SHA512
-encryption (salted + stretched for thousands of rounds).
-
-Twenty20 staff does not have access to your password, and cannot retrieve it for
-you, the only option if you lose it is to reset it Login credentials are always
-transmitted securely over HTTPS.
-
-System Security
-+++++++++++++++
-
-All web connections to client instances are protected with state-of-the-art
-256-bit SSL encryption. All our SSL certificates use robust 2048-bit modulus
-with full SHA-2 certificates chains. Our servers are kept under a strict
-security watch, and always patched against the latest SSL vulnerabilities,
-enjoying Grade A SSL ratings at all times.
-
-All Twenty20 online servers are running hardened Linux distributions with
-up-to-date security patches. Installations are ad-hoc and minimal to limit the
-number of services that could contain vulnerabilities (no PHP/MySQL stack for
-example)
-
-Only a few trusted Twenty20 engineers have clearance to remotely manage the servers
-- and access is only possible using SSH key pairs (password authentication
-disallowed)
-
-Firewalls and intrusion counter-measures help prevent unauthorized access.
-Automatic Distributed Denial of Service (DDoS) mitigation is implemented in EU
-and US data centers, and coming soon in Asia.
-
-Staff Access
-++++++++++++
-
-Twenty20 helpdesk staff may sign into your account to access settings related to
-your support issue. For this they use their own special staff credentials, not
-your password (which they have no way to know).
-
-This special staff access improves efficiency and security: they can
-immediately reproduce the problem you are seeing, you never need to share your
-password, and we can audit and control staff actions separately!
-
-Our Helpdesk staff strives to respect your privacy as much as possible, and
-only access files and settings needed to diagnose and resolve your issue
-
-Physical Security
-+++++++++++++++++
-
-The Twenty20 Online servers are hosted in several data centers worldwide, that must
-all satisfy with our minimum physical security criterions:
-- Physical access to the data center area where Twenty20 servers are located is restricted to data center technicians only
-- Security cameras are monitoring the data center locations
-
-Credit Cards Safety
-+++++++++++++++++++
-
-When you sign up for a paid Twenty20 Online subscription, we do not store your
-credit card information. Your credit card information is only transmitted
-securely between you and our PCI-Compliant payment acquirers: Ingenico and
-Paypal (even for recurring subscriptions)
-
-Software Security
-+++++++++++++++++
-
-The codebase of Twenty20 is laregely distributed and, thus, is continuously under
-examination by Twenty20 users and contributors worldwide. Community bug reports are
-therefore one important source of feedback regarding security. We encourage
-developers to audit the code and report security issues.
-
-Twenty20 SA commits to sending a "Security Advisory" to the Customer for any
-security Bug that are discovered in the Software, at least 2 weeks before
-making the Security Advisory public, unless the Bug has already been disclosed
-publicly by a third party.
-
-Security Advisories include a complete description of the Bug, its cause, its
-possible impacts on the Customer's systems, and the corresponding remedy for
-each Covered Version.
-
-The Customer understands that the Bug and the information in the Security
-Advisory must be treated are Confidential Information as described in
-:ref:`confidentiality` during the embargo period prior to the public
-disclosure.
-
-The Twenty20 R&D processes have code review steps that include security aspects,
-for new and contributed pieces of code. Twenty20 is designed in a way that prevents
-introducing most common security vulnerabilities:
-
-- SQL injections are prevented by the use of a higher-level API that does not require manual SQL queries
-- XSS attacks are prevented by the use of a high-level templating system that automatically escapes injected data
-- The framework prevents RPC access to private methods, making it harder to introduce exploitable vulnerabilities
-- See also the OWASP Top Vulnerabilities section to see how Twenty20 is designed from the ground up to prevent such vulnerabilities from appearing.
-
-Twenty20 is regularly audited by independent companies that are hired by our
-customers and prospects to perform audits and penetration tests. The Twenty20
-Security Team receives the results and takes appropriate corrective measures
-whenever it is necessary. We can't however disclose any of those results,
-because they are confidential and belong to the commissioners.
-
-Twenty20 also has a very active community of independent security researchers, who
-continuously monitor the source code and work with us to improve and harden the
-security of Twenty20. Our Security Program is described on our Responsible
-Disclosure page: https://www.odoo.com/page/responsible-disclosure.
-
-.. _upgrade:
-
-4.6 Upgrade Services
---------------------
-
-.. _upgrade_odoo:
-
-Upgrade Service for the Software
-++++++++++++++++++++++++++++++++
-
-For the duration of this Agreement, the Customer can submit upgrade requests,
-in order to convert a database of the Software from one Covered Version of the
-Software to a more recent Covered Version (the "Target Version").
-
-This service provided through an automated platform in order to allow the Customer to perform
-unattended upgrades once a previous version of the Customer's database has been successfully
-upgraded for a Covered Version.
-The Customer may submit successive upgrade requests for a database, and agrees to submit at least
-1 upgrade request for testing purposes before submitting the final upgrade request.
-
-It is the sole responsibility of the Customer to verify and validate the upgraded database in order
-to detect Bugs, to analyze the impact of changes and new features implemented in the Target Version,
-and to convert and adapt for the Target Version any third-party extensions of the Software that
-were installed in the database before the upgrade (except where applicable as foreseen in section
-:ref:`upgrade_extra`).
-
-The Customer may submit multiple upgrade requests for a database, until an
-acceptable result is achieved.
-
-.. _upgrade_extra:
-
-Upgrade Service for customizations
-++++++++++++++++++++++++++++++++++
-
-For the duration of this Agreement, the Customer may request optional upgrade
-services for third-party extension modules of the Software, in addition to the
-regular Upgrade Services.
-
-This optional service is subject to additional fees
-(as described in charges_) and includes the technical adaptation of third-party
-modules installed in the Customer's database and their corresponding data in
-order to be compatible with the Target Version. The Customer will receive an
-upgraded version of all installed third-party modules along with the upgraded
-database.
-
-.. _charges:
 
 5 Charges and Fees
 ==================
@@ -327,56 +159,39 @@ database.
 5.1 Standard charges
 --------------------
 
-The standard charges for the Twenty20 Online subscription, the Bug Fixing Service, Security Advisories
-Service and the Upgrade Service are based on the number of Users and applications used by
-the Customer, and specified in writing at the signature of the Agreement.
+Customer shall pay Hindsight the applicable annual fees for the Software and Services in the present
+Agreement based on the number of Users and Applications specified in the Investment Summary of the sales
+proposal. Services are invoiced at the beginning of the Agreement Term. Payments are due in full per the
+payment conditions specified on the corresponding invoice no later than 30 days after the new contract has
+begun. If payment has not been received within 30 days of a contract renewal, Hindsight will disable the
+Customer’s Software and Services, until payment has been made in full.
 
-When during the Term, the Customer has more Users or applications than
-specified at the time of signature of this Agreement, the Customer agrees to
-pay an extra fee equivalent to the applicable list price (at the beginning of
-the Term) for the additional Users and applications, for the remainder of the
-Term.
+WHEN DURING THE TERM, THE CUSTOMER HAS MORE USERS OR APPLICATIONS THAN SPECIFIED AT THE TIME OF SIGNATURE OF THIS
+AGREEMENT, THE CUSTOMER AGREES TO PAY AN EXTRA FEE EQUIVALENT TO THE APPLICABLE LIST PRICE (AT THE BEGINNING OF THE TERM)
+FOR THE ADDITIONAL USERS AND APPLICATIONS, FOR THE REMAINDER OF THE TERM. 
 
-.. _charges_renewal:
+5.2 Renewal Charges
+--------------------
+If no other agreement is in place, the Contract will automatically renew for a one (1) year period, and will
+automatically renew each year unless thirty (30) days prior written notice is provided. If the current retail price
+of the Software has changed the beta customer subscription price will increase no more than 15% of the
+previous signed contract amount. Any new modules that are desired at the time of renewal and not included
+on this contract will be in addition to the Agreement and will be billed at the time of the contract renewal.
 
-5.2 Renewal charges
--------------------
+5.3 Charges and Other Financial Provisions
+-------------------------------------------
 
-Upon renewal as covered in section :ref:`term`, if the per-User charges applied
-during the previous Term are lower than the most current applicable per-User
-list price, the per-User charges will increase by up to 7% per year.
+Customer shall pay Hindsight the applicable annual fees for the Software and Services in the present
+Agreement based on the number of Users and Applications specified in the Investment Summary of the sales
+proposal. Services are invoiced at the beginning of the Agreement Term. Payments are due in full per the
+payment conditions specified on the corresponding invoice no later than 30 days after the new contract has
+begun. If payment has not been received within 30 days of a contract renewal, Hindsight will disable the
+Customer’s Software and Services, until payment has been made in full.
 
-
-.. _charges_thirdparty:
-
-5.3 Charges for custom features or third-party modules
-------------------------------------------------------
-
-.. FIXME: should we really fix the price in the contract?
-
-The additional charge for the Upgrade, Support and Bugfix Service for custom
-modules developed by Twenty20 SA is a recurring price depending on the number of
-hours done to develop these custom features:
-- 4 EUR / month per hour of development in European contries
-- 5 USD / month per hour of development in other countries
-
-In case the modules are not developed by Twenty20 SA, Twenty20 SA reserves the right to
-reject an upgrade request for third-party modules under the above conditions if
-the quality of the source code of those modules is too low, or if these modules
-constitute an interface with third-party software or systems. The upgrade of
-such modules will subject to a separate offer, outside of this Agreement.
-
-.. _taxes:
-
-5.4 Taxes
----------
-
-.. FIXME : extra section, not sure we need it?
-
-All fees and charges are exclusive of all applicable federal, provincial, state, local or other
-governmental taxes, fees or charges (collectively, "Taxes"). The Customer is responsible for paying
-all Taxes associated with purchases made by the Customer under this Agreement, except when Twenty20 SA
-is legally obliged to pay or collect Taxes for which the Customer is responsible.
+5.4 Charges for Customizations and/or Upgrades
+-----------------------------------------------
+The charge for the customization (not included in the Twenty20 Construction Cloud) is $185 per hour exclusive of all taxes
+or as otherwise specified in the signed Agreement. A separate quotation will be established and the corresponding services will be billed separately.
 
 
 .. _conditions:
@@ -385,13 +200,12 @@ is legally obliged to pay or collect Taxes for which the Customer is responsible
 ========================
 
 6.1 Customer Obligations
-------------------------
+-------------------------
 
-.. FIXME: removed the clause about
 
 The Customer agrees to:
 
-- pay Twenty20 SA any applicable charges for the Services of the present Agreement, in accordance with
+- pay Hindsight any applicable charges for the Services of the present Agreement, in accordance with
   the payment conditions specified in the corresponding invoice ;
 - appoint 1 dedicated Customer contact person for the entire duration of the Agreement;
 
@@ -406,8 +220,7 @@ representatives agree not to solicit or offer employment to any employee of the 
 involved in performing or using the Services under this Agreement, for the duration of the Agreement
 and for a period of 12 months from the date of termination or expiration of this Agreement.
 In case of any breach of the conditions of this section that leads to the termination of said
-employee toward that end, the breaching party agrees to pay to the other party an amount of
-EUR (€) 30 000.00 (thirty thousand euros).
+employee toward that end, the breaching party agrees to pay to the other party an amount of $75,000 USD.
 
 
 .. _publicity:
@@ -451,7 +264,7 @@ In the event that either Party fails to fulfill any of its obligations arising h
 breach has not been remedied within 30 calendar days from the written notice of such
 breach, this Agreement may be terminated immediately by the non-breaching Party.
 
-Further, Twenty20 SA may terminate the Agreement immediately in the event the Customer fails to pay
+Further, Hindsight may terminate the Agreement immediately in the event the Customer fails to pay
 the applicable fees for the Services within the due date specified on the corresponding invoice.
 
 Surviving Provisions:
@@ -459,6 +272,23 @@ Surviving Provisions:
   “:ref:`liability`”, and “:ref:`general_provisions`” will survive any termination or expiration of
   this Agreement.
 
+6.6 Customer Referral Program
+--------------------------------
+
+Customer is entitled to participate in our customer referral program. This program offers you a way to extend
+your Software subscription without additional cost. With this program, if you refer
+another company to us that ends up subscribing to Twenty20 Construction Cloud, Hindsight will extend your
+contract subscription term by 3 additional months per paid referral.
+
+We hope that you will take advanatge of this awesome opportunity to receive additional free months.
+
+6.7 Contract Renewal
+-----------------------
+If no other agreement is in place, the Contract will automatically renew for a one (1) year period, and will
+automatically renew each year unless thirty (30) days prior written notice is provided. If the current retail price
+of the Software has changed the beta customer subscription price will increase no more than 15% of the
+previous signed contract amount. Any new modules that are desired at the time of renewal and not included
+on this contract will be in addition to the Agreement and will be billed at the time of the contract renewal.
 
 .. _warranties_disclaimers:
 
@@ -470,63 +300,51 @@ Surviving Provisions:
 7.1 Warranties
 --------------
 
-.. industry-standard warranties regarding our Services while Agreement in effect
+Hindsight warrants that it will use commercially reasonable efforts to perform the Services in accordance with the
+generally accepted industry standards and further provided that:
 
-For the duration of this Agreement, Twenty20 SA commits to using commercially reasonable efforts to
-execute the Services in accordance with the generally accepted industry standards provided that:
+1. the Software code has not been modified, changed, or altered;
 
-- the Customer’s computing systems are in good operational order and the Software is installed in a
-  suitable operating environment;
-- the Customer provides adequate troubleshooting information and access so that Twenty20 SA can
-  identify, reproduce and address problems;
-- all amounts due to Twenty20 SA have been paid.
+2. the Customer provides adequate troubleshooting information and access so that Hindsight can identify,
+reproduce and address problems; and
 
-The Customer's sole and exclusive remedy and Twenty20 SA's only obligation for any breach of this warranty
-is for Twenty20 SA to resume the execution of the Services at no additional charge.
+3. all amounts due to Hindsight have been paid.
 
-.. _disclaimers:
+Customer's sole and exclusive remedy and Hindsight’s only obligation for any breach of the foregoing warranty is for
+Hindsight to perform again the services at no additional charge. 
 
-7.2 Disclaimers
----------------
+There are no other warranties of any kind, whether express or implied or statutory. Hindsight does not warrant that the
+Software, or the Service complies with any local or international law or regulations. Customer shall be solely
+responsible for monitoring, enforcing and complying with any law or regulations applicable for its business.
 
-.. no other warranties than explicitly provided
-
-Except as expressly provided herein, neither party makes any warranty of any kind, whether express,
-implied, statutory or otherwise, and each party specifically disclaims all implied warranties,
-including any implied warranty of merchantability, fitness for a particular purpose or
-non-infringement, to the maximum extent permitted by applicable law.
-
-Twenty20 SA does not warrant that the Software complies with any local or international law or regulations.
 
 .. _liability:
 
-7.3 Limitation of Liability
+7.2 Limitation of Liability
 ---------------------------
 
-To the maximum extent permitted by law, the aggregate liability of each party together with its
-affiliates arising out of or related to this Agreement will not exceed 50% of the total amount
-paid by the Customer under this Agreement during the 12 months immediately preceding the date of the event
-giving rise to such claim. Multiple claims shall not enlarge this limitation.
+To the maximum extent permitted by law, the aggregate liability of each party together with its affiliates arising out
+of or related to this Agreement will not exceed 50% of the total amount paid by the Customer under this Agreement during
+the 12 months immediately preceding the date of the event giving rise to such claim. Multiple claims shall not enlarge
+this limitation.
 
-In no event will either party or its affiliates be liable for any indirect, special, exemplary,
-incidental or consequential damages of any kind, including but not limited to loss of revenue,
-profits, savings, loss of business or other financial loss, costs of standstill or delay, lost or
-corrupted data, arising out of or in connection with this Agreement regardless of the form of
-action, whether in contract, tort (including strict negligence) or any other legal or equitable
-theory, even if a party or its affiliates have been advised of the possibility of such damages,
-or if a party or its affiliates' remedy otherwise fails of its essential purpose.
+In no event will either party or its affiliates be liable for any indirect, special, exemplary, incidental or
+consequential damages of any kind, including but not limited to loss of revenue, profits, savings, loss of business or
+other financial loss, costs of standstill or delay, lost or corrupted data, arising out of or in connection with this
+Agreement regardless of the form of action, whether in contract, tort (including strict negligence) or any other legal
+or equitable theory, even if a party or its affiliates have been advised of the possibility of such damages, or if a
+party or its affiliates' remedy otherwise fails of its essential purpose.  
 
 .. _force_majeure:
 
-7.4 Force Majeure
+7.3 Force Majeure
 -----------------
 
-Neither party shall be liable to the other party for the delay in any performance or failure to
-render any performance under this Agreement when such failure or delay is caused by governmental
-regulations, fire, strike, war, flood, accident, epidemic, embargo, appropriation of plant or
-product in whole or in part by any government or public authority, or any other cause or causes,
-whether of like or different nature, beyond the reasonable control of such party as long as such
-cause or causes exist.
+Neither party shall be liable to the other party for the delay in any performance or failure to render any performance
+under this Agreement when such failure or delay is caused by governmental regulations, fire, strike, war, flood,
+accident, epidemic, embargo, appropriation of plant or product in whole or in part by any government or public authority,
+or any other cause or causes, whether of like or different nature, beyond the reasonable control of such party as long
+as such cause or causes exist.
 
 
 .. _general_provisions:
@@ -539,75 +357,20 @@ cause or causes exist.
 8.1 Governing Law
 -----------------
 
-Both parties agree that the laws of Belgium will apply, should any dispute arise out of or
-in connection with this Agreement, without regard to choice or conflict of law principles.
-To the extent that any lawsuit or court proceeding is permitted hereinabove, both
-parties agree to submit to the sole jurisdiction of the Nivelles (Belgium) court for the purpose of
-litigating all disputes.
+Both parties agree that any controversy or claim between the parties hereto related in any way to the Software and/or
+Services pertaining to this contract, shall be submitted to and determined by binding arbitration in accordance
+with the Federal Arbitration Act and the Commercial Arbitration Rules of the American Arbitration Association.
+All arbitration hearings will be commenced within 60 days of a written request for arbitration in Phoenix, Arizona.
+If the party requesting arbitration does not commence arbitration proceedings with 60 days of the written request for
+arbitration, the other party may seek relief from a court of proper jurisdiction
 
 .. _severability:
 
 8.2 Severability
 ----------------
 
-In case any one or more of the provisions of this Agreement or any application thereof shall be
-invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the
-remaining provisions of this Agreement and any application thereof shall be in no way thereby
-affected or impaired. Both parties undertake to replace any invalid, illegal or
-unenforceable provision of this Agreement by a valid provision having the same effects and
-objectives.
-
-
-.. _appendix_a:
-
-9 Appendix A: Twenty20 Enterprise Edition License
-=================================================
-
-.. only:: latex
-
-    Twenty20 Enterprise Edition is licensed under the Twenty20 Enterprise Edition License v1.0,
-    defined as follows:
-
-
-.. only:: html
-
-    See :ref:`odoo_enterprise_license`.
-
-
-
-
-
-.. FIXME: move this is to appendix or somewhere else?
-
-.. only:: disabled
-
-    Agreement Registration
-    ======================
-
-    Customer contact information
-    ----------------------------
-
-    Company name:
-    Company address:
-    VAT number (if applicable):
-    Contact name:
-    Email:
-    Phone:
-
-    Technical contact information (can be an Twenty20 partner):
-    -----------------------------------------------------------
-    Company name:
-    Contact name:
-    Email:
-    Phone:
-
-
-    By signing this Agreement I confirm I am a legal representative of Customer as stated in the
-    resent section and approve all provisions and conditions of the present Agreement:
-
-    For and on behalf of (company name):
-    Last name, first name:
-    Title:
-    Date:
-
-    Signature:
+In case any one or more of the provisions of this Agreement or any application thereof shall be invalid,
+illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions of this
+Agreement and any application thereof shall be in no way thereby affected or impaired. Customer and Hindsight undertake
+to replace any invalid, illegal or unenforceable provision of this Agreement by a valid provision having the same
+effects and objectives.

@@ -1,7 +1,7 @@
 :banner: banners/development/development.jpg
 
 ========================
-Working with domains
+Domains:
 ========================
 
 
@@ -42,8 +42,8 @@ Where:
 
 
 
-
-**Explanation**
+Explanation
+-------------
 
 
 **Step 1:** Start with an outermost operator and shift it to the start of the expression.
@@ -88,20 +88,22 @@ Let’s take an example of a domain which is set in Lot/Serial number field of w
     (('product_id', '=', product_id), '&amp;', ('product_id.tracking', '!=', 'serial')), ’|’, ('use_next_on_work_order_id', '=', id)
 
 
-- If you will try to write the above expression in “Polish” notation as per explanation then, you will get it as per below:
+If you will try to write the above expression in “Polish” notation as per explanation then, you will get it as per below:
 
     '|', '&amp;', ('product_id', '=', product_id), ('product_id.tracking', '!=', 'serial'), ('use_next_on_work_order_id', '=', id)
 
 
-- We can apply this domain in py or xml files. Here is the syntax of the same:
+We can apply this domain in py or xml files. Here is the syntax of the same:
 
-**XML file:**
+XML File::
 
     <field name="final_lot_id" domain="['|', '&amp;', ('product_id', '=', product_id), ('product_id.tracking', '!=', 'serial'), ('use_next_on_work_order_id', '=', id)]" groups="stock.group_production_lot"/>
 
-**py file:**
+Python File::
 
     final_lot_id = fields.Many2one('stock.production.lot', 'Lot/Serial Number', domain="['|', '&amp;', ('product_id', '=', product_id), ('product_id.tracking', '!=', 'serial'), ('use_next_on_work_order_id', '=', id)]",states={'done': [('readonly', True)], 'cancel': [('readonly', True)]})
+
+
 
 RST Reference:
 https://github.com/lsegal/atom-rst-preview/blob/master/sample.rst

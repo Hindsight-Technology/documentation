@@ -178,11 +178,12 @@ relevant subscription Service Term.
 
 4.3. RIGHTS UPON TERMINATION.
 -------------------------------
-Other than in connection with a termination by Customer under Section 20.1 of the General Terms, if Customer elects to
-terminate its subscriptions or cancel its account prior to the end of its then-effective subscription term
+If Customer elects to terminate its subscriptions or cancel its account prior to the end of its then-effective subscription term
 (A) Company will not provide any refund or credit for subscription charges or other fees or payments to Customer; and
 (B) in addition to other amounts Customer may owe to Company, Customer must immediately pay any then-unpaid subscription
-charges associated with the remainder of each applicable subscription term. If, however, Customer terminates this
+charges associated with the remainder of each applicable subscription term.
+
+If, however, Customer terminates this
 Agreement under Section 20.1 of the General Terms, Company will refund Customer any prepaid fees covering the remainder
 of the term of all Order Forms after the effective date of termination. Conversely, if this Agreement is terminated by
 Company under Section 20.2 of the General Terms, Customer will pay any unpaid fees covering the remainder of the term of all Order Forms.
@@ -222,7 +223,7 @@ unless in writing and signed by a duly authorized representative of the Company.
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE MAXIMUM CUMULATIVE AND AGGREGATE LIABILITY OF HINDSIGHT TECHNOLOGIES LLC
 AND ITS AFFILIATES, SUBSIDIARIES AND RELATED COMPANIES, AND THEIR EMPLOYEES, OFFICERS, DIRECTORS, REPRESENTATIVES, AND
 AGENTS FOR ALL COSTS, LOSSES OR DAMAGES FROM CLAIMS ARISING UNDER OR RELATED IN ANY WAY TO THIS AGREEMENT, WHETHER IN CONTRACT,
-TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, IS LIMITED TO CUSTOMER'S DIRECT DAMAGES ONLY AND SHALL NOT EXCEED THE TOTAL AMOUNTS PAID BY
+TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, IS LIMITED TO CUSTOMER'S DIRECT DAMAGES ONLY AND SHALL NOT EXCEED FIFTY PERCENT (50%) OF THE TOTAL AMOUNTS PAID BY
 CUSTOMER UNDER THIS AGREEMENT, DURING THE IMMEDIATE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.
 
 FURTHER, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL EITHER BE LIABLE TO THE OTHER FOR SPECIAL,
