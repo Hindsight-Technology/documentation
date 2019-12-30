@@ -1,8 +1,8 @@
 :banner: banners/development/development.jpg
 
-========================
-Domains:
-========================
+=================================
+Domain Sytax and Polish Notation:
+=================================
 
 
 Twenty20 uses polish notation for domain filters. Before going further let’s try to understand Polish notation first.
