@@ -1,0 +1,107 @@
+:banner: banners/development/development.jpg
+
+==============================
+January 3, 2020  (2020.01.01)
+==============================
+
+General
+---------
+
+**Security**
+
+
+**Dashboards**
+
+
+
+Accounting
+------------
+**General**
+
+- Invoices related to commitments validation. When an invoice is created for a project, you will be notified if there are open commitments for the vendor.
+If the invoice amount is greater than the committed amount you will also receive a warning.  Both are just warnings.
+.. youtube:: XhS-nK_SsO0
+    :align: right
+    :width: 700
+    :height: 394
+
+**Time and Material**
+
+
+
+Project Mgmt
+--------------
+
+**General**
+
+
+**Submittal**
+
+- Major enhancements to the Submittal workflow options
+- Improvement to the submittal views on the portal
+- Ability to create draft submittals from the portal
+
+**Subcontracts**
+- Improvement and validation of Invoices that are added to a project. If a project is added the user will be alerted in
+the vendor has open subcontracts. If the user enters an amount greater that that subcontract amount the user will also be warned.
+
+**Portal**
+- The portal user can now create a draft submittal from the portal
+- The ability for a vendor to upload an application for payment from teh portal was enhanced.
+
+
+**Daily Log**
+
+
+
+**Project Meetings**
+
+
+**Change Request**
+
+
+
+**Change Orders**
+
+
+**Scheduling**
+
+
+
+
+
+Human Resources
+----------------
+
+Payroll
+----------
+
+**Period Wizard**
+
+- Added a new wizard that will automatically create your payroll pay periods
+
+**Notes Payable**
+
+- enhanced the notes payable tracking on the employee contract. You can now make adjustments to the note and you can see the payments that have been made from the employee payslips.
+
+**Direct Deposit**
+- Enhanced the direct deposit features to include making deposits to multiple banks accounts either by amount or percent of paycheck.
+
+
+Purchasing/Inventory
+---------------------
+
+**Project Requisitions**
+
+- Added a new requisition application that will make it possible to list the materials that are required for a project. The Procurement manager can then pull from stock or create a purchase order.  All items will be costed to the project and tracked.
+
+
+Service Mgmt
+------------
+
+Estimating
+-------------
+
+
+Reference:
+https://github.com/lsegal/atom-rst-preview/blob/master/sample.rst
