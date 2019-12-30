@@ -1,14 +1,31 @@
 :banner: banners/pm/overview.png
 
 ======================================
-How to setup project in Twenty20
+How to setup estimating
 ======================================
 
-Products and Analytic Acounts
+Lets start with the database objects
 ======================================
 
-Analytic Accounts
+Items
 -------------------
+Items are all of the individual lines that you have on your estimate.  An item can be whatever to choose.
+
+It could be very specific: 3000 psi Concrete
+Or it could be very general:Concrete
+
+An item will have the default properties that define that item such as default sale price, default cost, default category
+(labor, material, equipment, subcontract, other)
+
+Inputs
+-------------------
+
+Formulas
+-------------------
+
+Assemblies
+-------------------
+
 Analytic accounts are used to organize and track the costs and revenue assocauited to your project.  There is a master list of Analytic Accounts that you can start with , or you can create your own.
 There are a few things to know before creating or adding analytic accounts.
 
@@ -51,7 +68,7 @@ Once a step is done, you can click on the "Mark as Done" button, in the
 bottom of the screen. That way, you can track the progress of your
 overall configuration of Twenty20.
 
-Company and Project Defaults
+Assemblies
 ======================================
 Once a step is done, you can click on the "Mark as Done" button, in the
 bottom of the screen. That way, you can track the progress of your
