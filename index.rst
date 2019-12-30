@@ -10,5 +10,7 @@ TWENTY20 APPLICATIONS
     :titlesonly:
 
     applications
+    development
+    devops
 
 

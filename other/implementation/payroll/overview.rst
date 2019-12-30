@@ -1,7 +1,7 @@
 :banner: banners/development/implementation.jpg
 
 ==============
-Implementation
+Payroll Implementation
 ==============
 
 .. toctree::
@@ -9,5 +9,3 @@ Implementation
 
     implementation/plan
     implementation/payroll/overview
-
-

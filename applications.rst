@@ -10,5 +10,4 @@
     applications/hr
     applications/payroll
     applications/estimating
-    other/index
-
+    internal/release_notes
