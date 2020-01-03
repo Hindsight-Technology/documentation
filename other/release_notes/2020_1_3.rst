@@ -16,14 +16,12 @@ General
 
 Accounting
 ------------
-**General**
+**Vendor Invoice**
 
-- Invoices related to commitments validation. When an invoice is created for a project, you will be notified if there are open commitments for the vendor.
-If the invoice amount is greater than the committed amount you will also receive a warning.  Both are just warnings.
-.. youtube:: XhS-nK_SsO0
-    :align: right
-    :width: 700
-    :height: 394
+- Fixed a calculation error where the Invoice "Commitment Balance" was not taking into consideratio the retainage amount. This calculation was also fixed on the subcontract totals.
+
+- Invoices related to commitments validation. When an invoice is created for a project, you will be notified if there are open commitments for the vendor. If the invoice amount is greater than the committed amount you will also receive a warning.  Both are just warnings.
+
 
 **Time and Material**
 
@@ -42,8 +40,7 @@ Project Mgmt
 - Ability to create draft submittals from the portal
 
 **Subcontracts**
-- Improvement and validation of Invoices that are added to a project. If a project is added the user will be alerted in
-the vendor has open subcontracts. If the user enters an amount greater that that subcontract amount the user will also be warned.
+- Improvement and validation of Invoices that are added to a project. If a project is added the user will be alerted in the vendor has open subcontracts. If the user enters an amount greater that that subcontract amount the user will also be warned.
 
 **Portal**
 - The portal user can now create a draft submittal from the portal
@@ -52,17 +49,11 @@ the vendor has open subcontracts. If the user enters an amount greater that that
 
 **Daily Log**
 
-
-
 **Project Meetings**
-
 
 **Change Request**
 
-
-
 **Change Orders**
-
 
 **Scheduling**
 
