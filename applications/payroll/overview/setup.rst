@@ -63,28 +63,49 @@ Salary Rules are grouped into categories and organized by sequence.  The sequenc
 There is a set structure for Salary Rule Sequences:
 
 **EMPLOYEE**
+
 0-98              Wages
+
 99                Gross Wages
+
 100 - 199         Pre tax Additions and Deductions
+
 200 - 299         Taxes Country
+
 300 - 399         Taxes State/Other
+
 400 - 499         
+
 500 - 599         Post Tax Additions and Deductions
+
 600 - 699         
+
 700 - 799         
+
 800 - 899
+
 900 - 998
+
 999               Net 
 
 **COMPANY**
+
 1000 - 1999       Items not taken from Payslip but calculated
+
 1200 - 1299       Company Taxes Federal
+
 1300 - 1399       Company Taxes State/Other
+
 1400 - 1499       Workers Compensation
+
 1500 - 1599       Union Benefits
+
 1600 - 1699
+
 1700 - 1799
+
 1800 - 1899
+
 1900 - 1999
 
 
