@@ -9,5 +9,6 @@ Implementation
 
     implementation/getting_started
     implementation/plan
+    implementation/howto
 
 
