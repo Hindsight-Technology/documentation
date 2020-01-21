@@ -74,9 +74,13 @@ There is a set structure for Salary Rule Sequences:
 
 300 - 399         Taxes State/Other
 
-400 - 499         
+400 - 498         
 
-500 - 599         Post Tax Additions and Deductions
+499               After Tax Income (AFTERTAX)
+
+500               Tax Garnishment (BACKTAX)
+
+501 - 599         Post Tax Additions and Deductions
 
 600 - 699         
 
