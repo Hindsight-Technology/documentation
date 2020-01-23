@@ -56,6 +56,23 @@ Create and setup new employee
 Create employee contracts
 -----------------------------
 
+Create/Verify Salary Categories
+----------------------------------
+
+100        Wages (WAGES)
+
+199        Gross Wages (GROSS
+
+           6Federal Taxes (FEDTAX)
+            
+
+100 - 199     PreTax Additions and Deductions
+
+200 - 299      Taxes Country
+
+300 - 299      Taxes State/Other
+
+
 Setup Salary Rules
 ---------------------
 Salary Rules are grouped into categories and organized by sequence.  The sequence is very important because it will indicate the order that the rule will be executed on the Payslip.  
@@ -66,7 +83,7 @@ There is a set structure for Salary Rule Sequences:
 
 0-98              Wages
 
-99                Gross Wages
+99                Gross Wages (GROSS)
 
 100 - 199         Pre tax Additions and Deductions
 
@@ -111,6 +128,8 @@ There is a set structure for Salary Rule Sequences:
 1800 - 1899
 
 1900 - 1999
+
+4300 - 4400       State Taxes
 
 
 **IMPORTANT!  Remember that if you want to have your salary rules impact the General Ledger that you need to add the Gl acounts on each salary rule.**
