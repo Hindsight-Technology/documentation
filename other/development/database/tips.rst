@@ -2,35 +2,12 @@
 DATABASE TIPS & TRICKS
 ===========================
 
-delete a k3 deployment
+WORKLOADS
 ============================
-helm delete --purge rudickgrouptest
+Do not delete workloads. If you do not want a workload to be in use then to to GCP and action | set scale to 0.
+This will be overwritten by settings in Github.  If you want to remove permanently then you need to go to the deployment.yaml file and make the change there and save.
 
 
-Access Customer deployment
-========================================
-
-- cd /Users/brantwadz/twenty20/10/twenty20
-- ./connectToPod.sh branchname
-
-Run Manual Update
-====================
-
-- ./runUpdateOnDeployment.sh branchname
-
-Database Access
-========================================
-
-Log in to the console
-
-Access postgress database on a specific customer deployment
-1. Log into the console
-
-2. Change to postgres user **sudo su postgres**
-
-3. **psql**
-
-4. list all databases... **'\l**
 
 
 SQl Scripts
